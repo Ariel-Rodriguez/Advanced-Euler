@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010/03/28 16:03:48.558.pas,C:\Users\Ariel\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Ariel\Documents\RAD Studio\Projects\threads\threadproj.pas</Transaction>
+    <Transaction>2010/03/28 16:03:48.558.dfm,C:\Users\Ariel\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Ariel\Documents\RAD Studio\Projects\threads\threadproj.dfm</Transaction>
+    <Transaction>2010/03/28 16:04:20.163.pas,C:\Users\Ariel\Documents\RAD Studio\Projects\threads\threadproj.pas=C:\Users\Ariel\Documents\RAD Studio\Projects\threads\threads.pas</Transaction>
+    <Transaction>2010/03/28 16:04:20.163.dfm,C:\Users\Ariel\Documents\RAD Studio\Projects\threads\threadproj.dfm=C:\Users\Ariel\Documents\RAD Studio\Projects\threads\threads.dfm</Transaction>
+    <Transaction>2010/03/28 16:04:30.356.dproj,C:\Users\Ariel\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\Ariel\Documents\RAD Studio\Projects\threads\threadproj.dproj</Transaction>
+    <Transaction>2010/04/02 10:24:15.359.pas,C:\projects\threads\Unit1.pas=C:\projects\threads\extendedtype.pas</Transaction>
+    <Transaction>2010/04/10 13:15:46.725.pas,C:\projects\threads\Unit1.pas=C:\projects\threads\Chronometer.pas</Transaction>
+    <Transaction>2010/04/17 19:50:00.385.pas,C:\projects\threads\Unit1.pas=C:\projects\threads\Algoritmia.pas</Transaction>
+    <Transaction>2010/04/18 23:04:25.867.pas,C:\projects\threads\Unit2.pas=C:\projects\threads\Server.pas</Transaction>
+    <Transaction>2010/04/18 23:04:25.867.dfm,C:\projects\threads\Unit2.dfm=C:\projects\threads\Server.dfm</Transaction>
+    <Transaction>2010/04/21 21:04:57.730.dproj,C:\projects\threads\threadproj.dproj=C:\projects\inficalc proj\inficalc.dproj</Transaction>
+    <Transaction>2010/04/21 21:05:34.955.pas,C:\projects\threads\threads.pas=C:\projects\inficalc proj\InfiMainForm.pas</Transaction>
+    <Transaction>2010/04/21 21:05:34.955.dfm,C:\projects\threads\threads.dfm=C:\projects\inficalc proj\InfiMainForm.dfm</Transaction>
+    <Transaction>2010/04/21 21:07:19.633.pas,C:\projects\threads\Server.pas=C:\projects\inficalc proj\InfiServer.pas</Transaction>
+    <Transaction>2010/04/21 21:07:19.633.dfm,C:\projects\threads\Server.dfm=C:\projects\inficalc proj\InfiServer.dfm</Transaction>
+    <Transaction>2010/04/23 16:57:38.576.pas,C:\projects\inficalc proj\Unit1.pas=C:\projects\inficalc proj\TaskManager.pas</Transaction>
+    <Transaction>2010/04/23 19:37:28.828.pas,C:\projects\inficalc proj\InfiMainForm.pas=C:\projects\Advanced euler\Main\InfiMainForm.pas</Transaction>
+    <Transaction>2010/04/23 19:37:28.828.dfm,C:\projects\inficalc proj\InfiMainForm.dfm=C:\projects\Advanced euler\Main\InfiMainForm.dfm</Transaction>
+    <Transaction>2010/04/23 19:37:51.350.dproj,C:\projects\inficalc proj\inficalc.dproj=C:\projects\Advanced euler\Main\AdvEuler.dproj</Transaction>
+    <Transaction>2010/04/25 17:39:06.563.pas,C:\projects\Advanced euler\Main\Unit3.pas=C:\projects\Advanced euler\Main\Parameters.pas</Transaction>
+    <Transaction>2010/04/25 17:39:06.563.dfm,C:\projects\Advanced euler\Main\Unit3.dfm=C:\projects\Advanced euler\Main\Parameters.dfm</Transaction>
+    <Transaction>2010/04/26 22:16:36.568.pas,C:\projects\Advanced euler\Main\Unit1.pas=C:\projects\Advanced euler\Main\FacThread.pas</Transaction>
+  </Transactions>
+</BorlandProject>

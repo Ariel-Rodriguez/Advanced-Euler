@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010/04/19 00:46:25.548.pas,C:\Users\Ariel\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Ariel\Documents\RAD Studio\Projects\ClientNeurona.pas</Transaction>
+    <Transaction>2010/04/19 00:46:25.548.dfm,C:\Users\Ariel\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Ariel\Documents\RAD Studio\Projects\ClientNeurona.dfm</Transaction>
+    <Transaction>2010/04/19 00:46:33.796.dproj,C:\Users\Ariel\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\Ariel\Documents\RAD Studio\Projects\Client.dproj</Transaction>
+    <Transaction>2010/04/19 00:52:11.269.dproj,C:\Users\Ariel\Documents\RAD Studio\Projects\Client.dproj=C:\projects\threads\Client.dproj</Transaction>
+    <Transaction>2010/04/19 00:52:29.226.pas,C:\Users\Ariel\Documents\RAD Studio\Projects\ClientNeurona.pas=C:\projects\threads\ClientNeurona.pas</Transaction>
+    <Transaction>2010/04/19 00:52:29.226.dfm,C:\Users\Ariel\Documents\RAD Studio\Projects\ClientNeurona.dfm=C:\projects\threads\ClientNeurona.dfm</Transaction>
+    <Transaction>2010/04/21 21:31:12.861.pas,C:\projects\threads\ClientNeurona.pas=C:\projects\inficalc proj\ClientNeurona.pas</Transaction>
+    <Transaction>2010/04/21 21:31:12.861.dfm,C:\projects\threads\ClientNeurona.dfm=C:\projects\inficalc proj\ClientNeurona.dfm</Transaction>
+    <Transaction>2010/04/21 21:34:28.956.pas,C:\projects\threads\Unit1.pas=C:\projects\inficalc proj\ClientManager.pas</Transaction>
+    <Transaction>2010/04/23 12:13:52.377.dproj,C:\projects\threads\Client.dproj=C:\projects\inficalc proj\Client\Client.dproj</Transaction>
+    <Transaction>2010/04/23 12:14:01.270.pas,C:\projects\inficalc proj\ClientNeurona.pas=C:\projects\inficalc proj\Client\ClientNeurona.pas</Transaction>
+    <Transaction>2010/04/23 12:14:01.270.dfm,C:\projects\inficalc proj\ClientNeurona.dfm=C:\projects\inficalc proj\Client\ClientNeurona.dfm</Transaction>
+    <Transaction>2010/04/23 19:22:07.554.dproj,C:\projects\inficalc proj\Client\Client.dproj=C:\projects\Advanced euler\Client.dproj</Transaction>
+    <Transaction>2010/04/23 19:22:28.560.pas,C:\projects\inficalc proj\Client\ClientNeurona.pas=C:\projects\Advanced euler\ClientNeurona.pas</Transaction>
+    <Transaction>2010/04/23 19:22:28.560.dfm,C:\projects\inficalc proj\Client\ClientNeurona.dfm=C:\projects\Advanced euler\ClientNeurona.dfm</Transaction>
+    <Transaction>2010/04/23 19:35:28.968.dproj,C:\projects\Advanced euler\Client.dproj=C:\projects\Advanced euler\Client.dproj</Transaction>
+    <Transaction>2010/04/24 18:19:27.750.dproj,C:\projects\Advanced euler\Client.dproj=C:\projects\Advanced euler\Neurona\Neurona.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

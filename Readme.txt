@@ -1,0 +1,22 @@
+this was a small project I did on my free time.
+
+This Consist in a calculator to work in paralell procesorss/machines to calculate heavy calculations.
+
+
+How to (localhost mode):
+
+1)
+- Open AdvEuler.exe
+- In AdvEuler Go to "Rendimiento" at menu and select "N*X PC's..."
+- In the new window form created ("Cerebro") Click at "Crear Cerebro"
+
+2)
+- Now on the explorer go to the project\neurona\ and open Neurona.exe
+- At textbox "Neurona:" specify a neurona name and click on button "Activar Neurona"
+- Don't close this window.
+
+3)
+- Now on AdvEuler at Cerebro Form, you can see the "Neurona" connected listed.
+- Now you can click at "Activar Cerebro" to calculate euler number, with the client "Neurona"
+
+Note: repeating step 2, the server will accumulate more neurons. if the neurons(client) are in a different machine, you should specify the ip of server.
